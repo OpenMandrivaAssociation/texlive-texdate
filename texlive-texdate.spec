@@ -1,6 +1,6 @@
 Name:		texlive-texdate
 Version:	49362
-Release:	1
+Release:	2
 Summary:	Date printing, formatting, and manipulation in TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texdate
