@@ -3,7 +3,7 @@ Version:	49362
 Release:	2
 Summary:	Date printing, formatting, and manipulation in TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texdate
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/texdate
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texdate.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texdate.doc.r%{version}.tar.xz
